@@ -1,0 +1,14 @@
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/bin/Debug/net9.0/testing
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/bin/Debug/net9.0/testing.deps.json
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/bin/Debug/net9.0/testing.runtimeconfig.json
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/bin/Debug/net9.0/testing.dll
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/bin/Debug/net9.0/testing.pdb
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.AssemblyInfoInputs.cache
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.AssemblyInfo.cs
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.csproj.CoreCompileInputs.cache
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.dll
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/refint/testing.dll
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.pdb
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/testing.genruntimeconfig.cache
+/Users/hannah.moreen8gmail.com/Documents/C#/testing/obj/Debug/net9.0/ref/testing.dll

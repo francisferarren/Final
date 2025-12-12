@@ -1,0 +1,21 @@
+11/20/2025 02:09 AM|Happy|9|Excellent|Went out to buy some materials for my project|EmotionalResponse: Because I had the money to buy |Response: I budgeted properly
+10/14/2025 08:20 AM|Happy|9|Excellent|Felt productive and excited to start the day.|EmotionalResponse: Good sleep and morning routine |Response: Made a nutritious breakfast
+10/13/2025 04:10 PM|Stressed|4|Low|Overwhelmed with school requirements.|EmotionalResponse: Multiple deadlines |Response: Took a short walk
+10/12/2025 07:45 PM|Calm|8|Good|Spent a peaceful evening at home.|EmotionalResponse: Quiet surroundings |Response: Listened to calming music
+10/11/2025 11:00 AM|Sad|3|Low|Felt down after an argument with a friend.|EmotionalResponse: Misunderstanding |Response: Reflected and wrote in journal
+10/10/2025 02:30 PM|Neutral|5|Moderate|A normal day with nothing unusual.|EmotionalResponse: Routine tasks|Response: Continued regular activities
+10/09/2025 09:10 AM|Happy|8|Good|Enjoyed a fun study session with friends.|EmotionalResponse: Social interaction |Response: Laughed and bonded
+10/08/2025 06:20 PM|Anxious|4|Low|Had a hard time focusing on tasks.|EmotionalResponse: Mental fatigue |Response: Meditated
+10/07/2025 01:15 PM|Calm|7|Moderate|Felt relaxed after cleaning room.|EmotionalResponse: Clean environment |Response: Rested afterward
+10/05/2025 10:00 AM|Happy|9|Excellent|Had a great breakfast out with family.|EmotionalResponse: Quality time |Response: Enjoyed conversations
+11/20/2025 08:10 AM|Happy|9|Excellent|Great start to the morning with a clear mind.|EmotionalResponse: Good sleep |Response: Started work early
+11/19/2025 03:25 PM|Stressed|4|Low|Felt pressure from upcoming submissions.|EmotionalResponse: Academic workload |Response: Organized tasks
+11/18/2025 07:50 PM|Calm|8|Good|Evening felt peaceful and relaxing.|EmotionalResponse: Quiet environment |Response: Took a warm bath
+11/17/2025 10:05 AM|Sad|3|Low|Missed someone and felt emotional.|EmotionalResponse: Loneliness |Response: Tried to connect with a friend
+11/16/2025 01:40 PM|Neutral|5|Moderate|Nothing special happened today.|EmotionalResponse: Routine |Response: Continued daily routine
+11/15/2025 06:30 PM|Anxious|4|Low|Felt uneasy thinking about responsibilities.|EmotionalResponse: Overthinking |Response: Did breathing exercises
+11/14/2025 09:15 AM|Happy|8|Good|Had a fun chat with classmates.|EmotionalResponse: Social interaction |Response: Stayed positive all day
+11/20/2025 03:16 AM|Sad|3|Low|Having errors on my code|EmotionalResponse: Even when i fix my code it still has errors |Response: I search and watch tutorial videos to fix it
+11/20/2025 09:32 AM|Calm|8|Good|I woke up early to take my morning exam|EmotionalResponse: the exam made me feel a little nervous |Response: I tried my best to calmly answer my exam
+11/20/2025 10:06 AM|Happy|9|Excellent|I fixed my code today and everything worked out|EmotionalResponse: When the code runs the way I wanted | Response: I can proceed on making my powerpoint
+11/20/2025 03:40 PM|Sad|3|Low|I feel sad because I didnt present today on my finals|EmotionalResponse: because I didnt have proper time management | Response: I slept the whole day
